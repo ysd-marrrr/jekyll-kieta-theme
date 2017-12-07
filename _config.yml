@@ -1,9 +1,9 @@
 title: Kieta
 subtitle: All hope is gone
-# author: YOUR_NAME_OR_ID
-# twitter:
-  username: YOUR_TWITTER_ID
-# disqus: YOUR_DISQUS_SHORTNAME
+ author: YOUR_NAME_OR_ID
+ twitter:
+  username: atpons
+disqus: YOUR_DISQUS_SHORTNAME
 color: limegreen # web color
 branch: master # where your github pages hosted branch
 
